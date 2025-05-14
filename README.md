@@ -79,12 +79,10 @@ Traditional fire detection systems are too slow, lack precision, and don’t sca
 
 **Dilrabo Khidirova**  
 Master’s Student in AI & Data Engineering  
-TechLabs Munich 2025 Intern | FAANG Career Aspirant  
+TechLabs Munich 2025 Intern  
 📫 LinkedIn: https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
 
 ---
 
-## 📜 License
 
-MIT License – feel free to use and build upon this project.
 
